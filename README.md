@@ -88,7 +88,6 @@ Built a 3-page Power BI dashboard:
 - Revenue at risk by risk cohort
 - Churn composition by contract and payment method
 - Revenue at risk by service and contract
-- Retention playbook / recommended actions
 - Key churn influencers
 
 ## Key Insights
