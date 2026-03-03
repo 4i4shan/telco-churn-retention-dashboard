@@ -114,14 +114,14 @@ telco-churn-segmentation-powerbi/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 ├── sql/
-│   ├── 01_create_staging_table.sql
-│   ├── 02_create_fact_telco.sql
-│   ├── 03_create_customer_360.sql
-│   ├── 04_create_segments.sql
-│   ├── 05_create_risk_cohorts.sql
-│   ├── 06_create_targeting_view.sql
-│   ├── 07_create_analysis_ready_view.sql
-│   └── 08_validation_queries.sql
+│   ├── 01_create_staging_table
+│   ├── 02_create_fact_telco
+│   ├── 03_create_customer_360
+│   ├── 04_create_segments
+│   ├── 05_create_risk_cohorts
+│   ├── 06_create_targeting_view
+│   ├── 07_create_analysis_ready_view
+│   └── 08_validation_queries
 │
 ├── screenshots/
 │   ├── page1_executive_summary.png
